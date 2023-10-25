@@ -3,7 +3,7 @@ Desafio DIO para conclusão do curso em cibersecurity
 
 ### Ferramentas
 
-  - Kali Linux ( Configurar Bridget Adapter na Máquina Virtual  )
+  - Kali Linux ( Configurar Bridget Adapter na Máquina Virtual  ) 
     Settings > Network > Adapter 1 > Atached to > Bridget Adapter
 
   - setoolkit (Social-Engineer Toolkit (SET) )
